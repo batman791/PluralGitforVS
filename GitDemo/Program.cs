@@ -16,6 +16,8 @@ namespace GitDemo
 
             // more changes
 
+            // last local change
+
         }
     }
 }
