@@ -13,6 +13,9 @@ namespace GitDemo
             // local changes
 
             // some more local changes
+
+            // more changes
+
         }
     }
 }
