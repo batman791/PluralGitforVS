@@ -10,6 +10,9 @@ namespace GitDemo
     {
         static void Main(string[] args)
         {
+            // local changes
+
+            // some more local changes
         }
     }
 }
